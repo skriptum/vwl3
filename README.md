@@ -1,10 +1,13 @@
 ![2022-02-13_13-29](images/2022-02-13_13-29.jpg)
 
-*99 Cent*
+*99 Cent* by Andreas Gursky
 
 # Volkswirtschaftslehre
 
-meine Notzien zu den Modulen im dritten Semester
+meine Notizen zu den Modulen im dritten Semester
+
+1. Semester: [hier](https://vwl1.martenw.com/#/)
+2. Semester: [hier](https://vwl2.martenw.com/#/)
 
 | Modul                                         | Prof               | Übersicht                          |
 | --------------------------------------------- | ------------------ | ---------------------------------- |
