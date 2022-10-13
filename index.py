@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 import os
 
-location = "Nextcloud/2 Studium/23 Notizen/23.02 2.Semester/"
+location = "Nextcloud/2 Studium/23 Notizen/23.03 3. Semester/"
 
 os.chdir(os.path.expanduser("~")) # go to users folder
 os.chdir(location)
@@ -23,18 +23,18 @@ for file in all_files:
         if not file.startswith("."): #check if it is system file 
             #for all dirs
             if os.path.isdir(file):
-                if not file in ["images", "VL_Mathe2"]:
+                if not file in ["images"]:
                     dirs[file] = []
 
 
 #prettyfiyng the directory names
 dir_names = {
-    "VL_Mathe2": "- Mathematik II",
-    "VL_Statistik2": "- Statistik II",
-    "VL_Mikro": "- Mikroökonomik",
-    "VL_WissArbeit": "- Wissenschaftliches Arbeiten",
-    "VL_Recht-WiWi": "- Recht für WiWi",
-    "VL_Stadt": "- Stadtökonomie (Leipzig)"
+    "VL_Ethik": "- Ethik der Soz. Marktwirtschaft",
+    "VL_Makro1": "- Makroökonomik I",
+    "VL_Mikro2": "- Mikroökonomik II",
+    "VL_Monetaer": "- Monetäre Ökonomik",
+    "VL_Wachstum": "- Wachstum und Nachhaltigkeit",
+    "VL_Soziologie": "- Wirtschaftssoziologie"
 }
 
 result_list = ["- [Startseite](README.md)"]
