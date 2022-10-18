@@ -4,8 +4,10 @@
     - [Übersicht](VL_Makro1/README.md)
 
 - Mikroökonomik II
+    - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
+    - [Übersicht](VL_Soziologie/README.md)
 
 - Wachstum und Nachhaltigkeit
     - [BIP](VL_Wachstum/2022-10-11-BIP.md)
