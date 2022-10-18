@@ -11,9 +11,10 @@ meine Notizen zu den Modulen im dritten Semester
 
 | Modul                                         | Prof               | Übersicht                          |
 | --------------------------------------------- | ------------------ | ---------------------------------- |
-| Mikroökonomik II                              | Amelie Wuppermann  |                                    |
-| Makroökonomik I                               | Oliver Holtemöller |                                    |
-| Monetäre Ökonomik                             | Malte Rieth        | [README.md](VL_Monetär/README.md)  |
-| Ethik der Sozialen Marktwirtschaft            | Ingo Pies          |                                    |
-| Wachstum,Verteilung, Nachhaltigkeit (Leipzig) | Melanie Krause     | [README.md](VL_Wachstum/README.md) |
+| Mikroökonomik II                              | Amelie Wuppermann  |[Übersicht](VL_Mikro2/README.md)   |
+| Makroökonomik I                               | Oliver Holtemöller |[Übersicht](VL_Makro1/README.md)   |
+| Monetäre Ökonomik                             | Malte Rieth        |[Übersicht](VL_Monetär/README.md)  |
+| Ethik der Sozialen Marktwirtschaft            | Ingo Pies          |[Übersicht](VL_Ethik/README.md)    |
+| Wirtschaftssoziologie | Konstanze Senge |[Übersicht](VL_Soziologie/README.md) |
+| Wachstum,Verteilung, Nachhaltigkeit (Leipzig) | Melanie Krause-     |[Übersicht](VL_Wachstum/README.md) |
 
