@@ -1,4 +1,4 @@
-# 25.10.2022 Humankapital
+# 25.10.2022 Solow II und Humankapital
 
 
 
@@ -64,3 +64,59 @@ $$
 Insgesamt: 
 
 ![2022-10-25_10-37-57](../images/2022-10-25_10-37-57.jpg)
+
+
+
+## Humankapital
+
+im Solow Modell wirt zwischen den Arbeitskräften nicht unterschieden (Bildungslevel)
+
+- beispielsweise anhand der Länge der Schulbildung
+
+![2022-10-25_11-26-27](../images/2022-10-25_11-26-27.jpg)
+
+### Humankapital nach Mincer
+
+$$
+Y = K^a (AH)^{1-a} \text{ mit } H = e^{\psi \cdot u} L
+$$
+
+also gehen ungelernte Arbeiter:innen *L* für *u* Jahre zu Schule und realisieren $\psi$ Returns on Education pro Bildungsjahr
+
+- $\psi$ wird meist mit 0.1 angenommen = 10% pro Jahr
+
+$$
+y = k^a (A \cdot h)^{1-a} \\ 
+\text{ mit } h = \frac{H}{L}=e^{\psi u}
+$$
+
+Ähnlich wie vorher wird ProKopf Einkommen mit $A \cdot h$ multiplizieren
+$$
+y^* = Ah \cdot (k^*)^a = Ah \cdot\Big(\frac{s}{n+\delta+g}\Big)^{\frac{a}{1-a}} \\
+\frac{k}{Ah} = \text{Effektive Gelernte Arbeiter:in}
+$$
+
+### Humankapital nach Mankiw/Romer/Weil
+
+schlagen andere Einbeziehung vor:
+
+- ungelernte Arbeiter:in *L*
+- gelernte Arbeiter:in *H*
+
+Humankapital ähnlich physischem K., 
+
+- man kann in Bildung investieren $s_h$
+- oder in physischem Kapital $s_k$
+
+nicht durcheinander beschrieben wie bei Mincer
+$$
+Y = K^a H^b (AL)^{1-a-b} \\
+\to y^*(t) = A(t) \Big[
+\Big( \frac{s_k}{n+\delta+g}\Big)^a  
+\Big( \frac{s_h}{n+\delta+g}\Big)^b 
+\Big]^{\frac{a}{1-a-b}}
+$$
+
+### Vergleich beider Ansätze
+
+![2022-10-25_12-03-24](../images/2022-10-25_12-03-24.jpg)
