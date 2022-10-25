@@ -42,6 +42,12 @@ $$
 
 ### Effektivzins Wertpapier
 
+$$
+P = \frac{C}{(1+i)1} + \frac{C}{(1+i)^2} + ... + \frac{C+F}{(1+i)^n}
+$$
+
+
+
 - Preis P = 1000
 - Rückzahlung F = 1000
 - Kuponzahlung C = 100
@@ -55,5 +61,7 @@ Beispiel 2: P=900, F=1000, C=100, n=2
 $$
 900 = \frac{100}{(1+i)^1} + \frac{100+1000}{(1+i)^2} \implies i=16.25\%
 $$
-**sinkt der Preis, steigt der Zins!**
+**sinkt der Preis, steigt der Effektivzins!**
+
+
 
