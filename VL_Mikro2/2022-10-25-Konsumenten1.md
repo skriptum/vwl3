@@ -22,9 +22,12 @@ Menschen haben **Präferenzen**
 
 - Binär = verbindet zwei Sachen
 - bspw. Anna mag Äpfel lieber als Bananen
-- $\succ$ = präferiert
-- $\sim$ = indifferent
-- $\succsim$ = indifferent, aber mit Neigung?
+
+$\succ$ = **starke Präferenz**: striktes Vorziehen X vor Y
+
+$\succsim$ = **schwache Präferenz**: X mindestens genauso gut wie Y $\neq$ besser!
+
+$\sim$ = **indifferent**: X genaus gut wie Y
 
 Präferenzen sind bezogen auf Choice Set, bspw:
 
@@ -72,3 +75,15 @@ $$
 -\frac{dy}{dx} = \frac{MU_x}{MU_y}
 $$
 ![img](../images/2022-10-26_13-06-42.jpg)
+
+## Übung
+
+Aufgabe 2: zutreffende Implikationen
+
+- wenn $x \succ y \; \& \; y \succ z \implies x \succ z$
+- wenn $x \succsim y \; \& \; y \succ z \implies x \succ z$
+- wenn $x \succsim y \; \& \; y \succ z \implies x \succ z$
+- wenn $x \succ y \; \& \; y \sim z \implies x \succ z$
+- wenn $x \sim y \; \& \; y \sim z \implies x \sim z$
+- wenn $x \succsim y \; \& \; y \succsim x \implies x \sim y$
+
