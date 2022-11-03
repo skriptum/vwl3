@@ -18,3 +18,16 @@ meine Notizen zu den Modulen im dritten Semester
 | Wirtschaftssoziologie | Konstanze Senge |[Übersicht](VL_Soziologie/README.md) |
 | Wachstum,Verteilung, Nachhaltigkeit (Leipzig) | Melanie Krause-     |[Übersicht](VL_Wachstum/README.md) |
 
+
+
+## ToDos
+
+wöchtenliche Todos!
+
+- [ ] Mikro Vorlesung
+- [ ] Mikro Übungsblatt
+- [ ] Makro Übungsblatt
+- [ ] Monetäre Übungsblatt
+- [ ] W,V,N Übungsblatt (alle 2 Wochen)
+- [ ] Soziologie lesen
+- [ ] Ethik Lesematerial
