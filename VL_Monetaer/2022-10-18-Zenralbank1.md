@@ -4,7 +4,7 @@
 
 **Konventionell**: ZB setzt kurzfristigen Zinssatz (*overnight-interest rate*)
 
-![ 2022-10-18_16-26-14](../images/ 2022-10-18_16-26-14.jpg)
+![ 2022-10-18_16-26-14](../images/2022-10-18_16-26-14.jpg)
 
 - niedrigere Zinsen = bessere Kreditbedingungen = mehr Investitionen
 - bei zuviel Investitionen = Überhitzen der Nachfrage = Inflation
