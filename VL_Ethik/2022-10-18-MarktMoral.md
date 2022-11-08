@@ -10,7 +10,7 @@ Forschungsprogramm zwischen Ordnungsrahmen und Moral
 
 Bestandteile: System-Ethik, Organisations-Ethik, Prozess-Ethik
 
-![ 2022-10-18_14-27-08](../images/ 2022-10-18_14-27-08.jpg)
+![ 2022-10-18_14-27-08](../images/2022-10-18_14-27-08.jpg)
 
 ## Text: Markt & Moral
 
