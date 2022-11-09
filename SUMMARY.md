@@ -8,11 +8,13 @@
 - Mikroökonomik II
     - [Konsumenten1](VL_Mikro2/2022-10-25-Konsumenten1.md)
     - [Marshall](VL_Mikro2/2022-11-02-Marshall.md)
+    - [Hicksche](VL_Mikro2/2022-11-07-Hicksche.md)
     - [Übersicht](VL_Mikro2/README.md)
-
+    
 - Wirtschaftssoziologie
     - [Einfuehrung](VL_Soziologie/2022-10-19-Einfuehrung.md)
     - [Luhmann](VL_Soziologie/2022-10-26-Luhmann.md)
+    - [Markt](VL_Soziologie/2022-11-09-Markt.md)
     - [Übersicht](VL_Soziologie/README.md)
 
 - Wachstum und Nachhaltigkeit
@@ -20,6 +22,7 @@
     - [Solow](VL_Wachstum/2022-10-18-Solow.md)
     - [Humankapital](VL_Wachstum/2022-10-25-Humankapital.md)
     - [Konvergenz](VL_Wachstum/2022-11-01-Konvergenz.md)
+    - [Romer](VL_Wachstum/2022-11-08-Romer.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -28,6 +31,7 @@
     - [MarktMoral](VL_Ethik/2022-10-18-MarktMoral.md)
     - [Zentralsteuerung](VL_Ethik/2022-10-25-Zentralsteuerung.md)
     - [Ordoliberal](VL_Ethik/2022-11-01-Ordoliberal.md)
+    - [Dilemmata](VL_Ethik/2022-11-08-Dilemmata.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
@@ -35,5 +39,6 @@
     - [Zenralbank1](VL_Monetaer/2022-10-18-Zenralbank1.md)
     - [Inflation](VL_Monetaer/2022-10-25-Inflation.md)
     - [Anleihe](VL_Monetaer/2022-11-01-Anleihe.md)
+    - [Klimawandel](VL_Monetaer/2022-11-08-Klimawandel.md)
     - [Übersicht](VL_Monetaer/README.md)
 
