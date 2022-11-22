@@ -68,3 +68,16 @@ Darstellung der kumulativen Anteile der Haushalte und des Einkommens
 - Interpretation: Wie viel % der Haushalte Einkommen < x
 
 ![img](../images/2022-11-15_10-36-33.jpg)
+
+## Empirische Dichte
+
+- x-Achse: Einkommen
+- y-Achse: zugehörige Dichte f(x)
+- Fläche unter Dichte = 1
+- wieviel Prozent der Individuuen haben Einkommen gleich *x*?
+- nicht bei Individuellen / nur Klassen!
+
+
+
+![img](../images/2022-11-22_09-25-41.jpg)
+
