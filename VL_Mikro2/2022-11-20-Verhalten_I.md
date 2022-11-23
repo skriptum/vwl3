@@ -117,3 +117,74 @@ Feldexperimente:
     - Gehalt + Bonus bei hoher Prod.
 - erste Situation = besser
 
+
+
+## Übung
+
+### Aufgabe 1: Entscheidungsbaum
+
+a) Entscheidungsbaum mit Erträgen
+
+```mermaid
+graph LR
+1(Entscheidung) --1500--> Aktien 
+1 --650--> Anleihen 
+1 --2200--> Immobilien
+```
+
+b) Opportunitätskosten 
+
+höchste Nutzen der nächstbesten Alternative
+
+NUtzenfunktion: $u(x) = x$
+
+```
+Aktein: 2200
+Immo: 1500
+Anleihen: 2200
+```
+
+### Aufgabe 3: Decoy
+
+der perfekte Wingman und der Decoy-Effekt 
+
+Skala 1-10 bei Intelligenz + Attraktivität
+
+- **Sucher**: I=5, A=5
+- Person 2: I=4, A=6
+- Person 3: I=7, A=3
+
+wie muss der Wingman ausgestattet sein?
+
+- muss in beiden Dimensionen schlechter sein als mann selbst
+- aber die Konkurrenz in einer Dimension schlagen
+
+Beispielsweise I=4.1; A=3.1
+
+### Aufgabe 4: Verlustaversion
+
+$$
+v(x) = \begin{cases}x/3&x\ge0\\ 3x&x<0\end{cases} 
+$$
+
+zwei personen besitzen Aktie:
+
+- Preis gestern = 7
+- Preis heute = 4
+
+
+
+Person 1: ursprünglicher Preis als Referenzpunkt
+
+- gestern= 0m, heute = -3
+- Nutzenfunktion: $v(0)-v(-3) = 0- (-3 \cdot 3) = -9$ Nutzen verloren
+
+**=> Auffasung als Verlust**
+
+Person 2: heutiger Preis als Referenzpunkt
+
+- Heute = 0
+- Gestern = +3
+- Nutzenfunktion: $v(0)-v(+3) = 0-(\frac{1}{3}3)= -1$ Nutzen verloren
+
+ **=> Auffassung als verlorener "Gewinn"** (weil nicht gestern verkauft)
