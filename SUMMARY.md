@@ -6,6 +6,7 @@
     - [Erweiterungen](VL_Makro1/2022-11-09-Erweiterungen.md)
     - [Umwelt](VL_Makro1/2022-11-10-Umwelt.md)
     - [Romer](VL_Makro1/2022-11-17-Romer.md)
+    - [Arbeit](VL_Makro1/2022-11-24-Arbeit.md)
     - [Übersicht](VL_Makro1/README.md)
 
 - Mikroökonomik II
@@ -30,6 +31,7 @@
     - [Konvergenz](VL_Wachstum/2022-11-01-Konvergenz.md)
     - [Romer](VL_Wachstum/2022-11-08-Romer.md)
     - [Einkommen](VL_Wachstum/2022-11-15-Einkommen.md)
+    - [Verteilung](VL_Wachstum/2022-11-22-Verteilung.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -40,6 +42,7 @@
     - [Ordoliberal](VL_Ethik/2022-11-01-Ordoliberal.md)
     - [Dilemmata](VL_Ethik/2022-11-08-Dilemmata.md)
     - [Spieltheorie](VL_Ethik/2022-11-15-Spieltheorie.md)
+    - [Wirtschaftspolitik](VL_Ethik/2022-11-22-Wirtschaftspolitik.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
@@ -49,5 +52,6 @@
     - [Anleihe](VL_Monetaer/2022-11-01-Anleihe.md)
     - [Klimawandel](VL_Monetaer/2022-11-08-Klimawandel.md)
     - [Risiko](VL_Monetaer/2022-11-15-Risiko.md)
+    - [Zinsstruktur](VL_Monetaer/2022-11-22-Zinsstruktur.md)
     - [Übersicht](VL_Monetaer/README.md)
 
