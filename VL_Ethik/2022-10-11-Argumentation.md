@@ -10,10 +10,6 @@ Positik II: stimmen die theoretischen Kausalzusammenhänge?
 Normativ: Sind etwaige Wertungen allgemein zustimmungsfähig?
 ```
 
-orthogonale Positionierung von Ingo Pies:
-
-![2022-10-11_14.27.20](../images/2022-10-11_14.27.20.jpg)
-
 ## Der praktische Syllologismus
 
 ```
