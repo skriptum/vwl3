@@ -32,6 +32,7 @@
     - [Romer](VL_Wachstum/2022-11-08-Romer.md)
     - [Einkommen](VL_Wachstum/2022-11-15-Einkommen.md)
     - [Verteilung](VL_Wachstum/2022-11-22-Verteilung.md)
+    - [Ungleichheit](VL_Wachstum/2022-11-29-Ungleichheit.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
