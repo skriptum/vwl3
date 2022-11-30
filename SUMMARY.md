@@ -7,6 +7,7 @@
     - [Umwelt](VL_Makro1/2022-11-10-Umwelt.md)
     - [Romer](VL_Makro1/2022-11-17-Romer.md)
     - [Arbeit](VL_Makro1/2022-11-24-Arbeit.md)
+    - [Geld](VL_Makro1/2022-11-30-Geld.md)
     - [Übersicht](VL_Makro1/README.md)
 
 - Mikroökonomik II
@@ -15,6 +16,7 @@
     - [Hicksche](VL_Mikro2/2022-11-07-Hicksche.md)
     - [Effekte](VL_Mikro2/2022-11-13-Effekte.md)
     - [Verhalten_I](VL_Mikro2/2022-11-20-Verhalten_I.md)
+    - [Risiko](VL_Mikro2/2022-11-30-Risiko.md)
     - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
@@ -54,5 +56,6 @@
     - [Klimawandel](VL_Monetaer/2022-11-08-Klimawandel.md)
     - [Risiko](VL_Monetaer/2022-11-15-Risiko.md)
     - [Zinsstruktur](VL_Monetaer/2022-11-22-Zinsstruktur.md)
+    - [Finanzmarkt](VL_Monetaer/2022-11-29-Finanzmarkt.md)
     - [Übersicht](VL_Monetaer/README.md)
 
