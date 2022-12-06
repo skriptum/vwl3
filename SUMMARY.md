@@ -17,6 +17,7 @@
     - [Effekte](VL_Mikro2/2022-11-13-Effekte.md)
     - [Verhalten_I](VL_Mikro2/2022-11-20-Verhalten_I.md)
     - [Risiko](VL_Mikro2/2022-11-30-Risiko.md)
+    - [Versicherung](VL_Mikro2/2022-12-02-Versicherung.md)
     - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
@@ -35,6 +36,7 @@
     - [Einkommen](VL_Wachstum/2022-11-15-Einkommen.md)
     - [Verteilung](VL_Wachstum/2022-11-22-Verteilung.md)
     - [Ungleichheit](VL_Wachstum/2022-11-29-Ungleichheit.md)
+    - [Mobilitaet](VL_Wachstum/2022-12-06-Mobilitaet.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -46,6 +48,7 @@
     - [Dilemmata](VL_Ethik/2022-11-08-Dilemmata.md)
     - [Spieltheorie](VL_Ethik/2022-11-15-Spieltheorie.md)
     - [Wirtschaftspolitik](VL_Ethik/2022-11-22-Wirtschaftspolitik.md)
+    - [Umweltpolitik](VL_Ethik/2022-12-06-Umweltpolitik.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
