@@ -68,10 +68,15 @@ Folgerung: erwartete Zinsentwicklung $i_{1,1}^e$ bestimmt langfristige Zinsen vo
 Allgemein: 
 
 $$
-i_{n,0} = \frac{i_{1,0}+i_{1,1}^e+ i_{1,n}^e}{n}
+\underbrace{i_{n,0}}_{\text{langfristige Z.}} = \underbrace{\frac{i_{1,0}+i_{1,1}^e+ i_{1,n}^e}{n}}_{\text{kurzfristige Z.}}
 $$
 
 => Zins über *n* Perioden = erwartete kurzfristige Zinsen über *n* Perioden
+
+bei Zins $i_{n,t}$
+
+- n = Restlaufzeit
+- t = aktuelle Periode
 
 ## Liquiditätsprämientheorie
 
@@ -130,3 +135,4 @@ Idee
 - von blau :large_blue_circle: zu grün :green_heart:
 
 ![img](../images/2022-11-22_17-44-09.jpg)
+
