@@ -39,6 +39,7 @@
     - [Verteilung](VL_Wachstum/2022-11-22-Verteilung.md)
     - [Ungleichheit](VL_Wachstum/2022-11-29-Ungleichheit.md)
     - [Mobilitaet](VL_Wachstum/2022-12-06-Mobilitaet.md)
+    - [Zusammenhang](VL_Wachstum/2022-12-13-Zusammenhang.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -62,5 +63,6 @@
     - [Risiko](VL_Monetaer/2022-11-15-Risiko.md)
     - [Zinsstruktur](VL_Monetaer/2022-11-22-Zinsstruktur.md)
     - [Finanzmarkt](VL_Monetaer/2022-11-29-Finanzmarkt.md)
+    - [Zentralbank2](VL_Monetaer/2022-12-11-Zentralbank2.md)
     - [Übersicht](VL_Monetaer/README.md)
 
