@@ -86,3 +86,16 @@ Passiva:
 
 Risiken einer Bank: Kunden wollen alle gleichzeitig viel Liquidität
 
+## Liquiditäsmanagement
+
+Liquidiätsmaßnahmen einer Gechäftsbank:
+
+- Interbankenmarkt
+- Aktiva verkaufen
+- kurzfr. Kredit von ZB (**präferiert**)
+- Kredite nicht verlängern
+
+Kurzfristige Kredite bei ZB: zu *overnight rate*
+
+**Zentralbanken**: stellen in Krisen auch freiwillig Liquidität zu Verfügung, bspw. in Krisen
+
