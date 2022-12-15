@@ -71,12 +71,24 @@ EZB
 
 
 
+> **Preisstabilität:** niedrige & konstante Inflationsrate in *mittlerer Frist*
+
 Gründe für Preisziel:
 
 - Informationen der Preise
 - geringere Unsicherheit
 - verhindert Umverteilung von Leihenden zu Schuldnern
 - Stabilität für Investments
+- Vorteile von niedrige Zinsen = gut für Wirtschaft
+- kalte Progression stoppen
+
+
+
+Übung:
+
+1. Umverteilung von Bargeld zu inflatiosnindizierten GÜtern verhindert
+2. niedrige Zinsen & geringe Opportk. Bargeld 
+3. geringe Verzerrungen in Vermögensverteilung
 
 
 
@@ -113,3 +125,6 @@ Aber: rückwärts nicht möglich!
 
 Fragen: Mehrheitswahlrecht im Rat???
 
+ 
+
+=> **Geldpolitik mittel/langfristig neutral**: keine Realwirkung (Löhne), nur Inflation

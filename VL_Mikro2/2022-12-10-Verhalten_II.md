@@ -1,6 +1,6 @@
-# 10.12.2022 Verhaltensökonomik II: Prospect Theorie
+# 10.12.2022 Verhaltensökonomik II: Prospect Theory
 
-> **Prospect Theorie** = neue Erwartungsnutzentheorie, entstanden aus Mängeln der neoklassischen Theorie
+> **Prospekt-Theorie** = neue Erwartungsnutzentheorie, entstanden aus Mängeln der neoklassischen Theorie
 
 
 
@@ -93,6 +93,15 @@ Schwarze Kugeln sollten keinen Unterschied machen!
 
 > **Certainty Effekt:** Menschen tendieren dazu, Sicherheiten stärker zu gewichten
 
+Übergang von Sicher zu Risiko wird stärker gewichtet
+
+Als Übergang von unsicher zu weniger unsicher
+
+- von 99% auf 100% mehr Gewinnverzicht
+- als von 50% auf 51%
+
+
+
 ## Wahrscheinlichkeitsgewichtung
 
 neben Nutzenfunktion jetzt **Gewichtungsfunktion** $\pi(Pr)$
@@ -101,6 +110,8 @@ neben Nutzenfunktion jetzt **Gewichtungsfunktion** $\pi(Pr)$
 - $\pi(0)=0$ und $\pi(1)=1$
 - für niedrige Wahrscheinlichkeiten $\pi(x)>x$
 - für hohe Wahrscheinlichkeiten $\pi(x)< x$
+
+![img](../images/2022-12-14_15-38-26.jpg)
 
 Risikopräferenzen in der Prospect Theory
 
@@ -117,4 +128,8 @@ Eintscheidungsprozesse in 2 Phasen
 2. **Evaluation**
     - Gewichtung mit Wahrscheinlichkeitsgewichtungsfunktion
     - Nutzenfunktion in S-Form anwenden
+
+
+
+## Übung
 
