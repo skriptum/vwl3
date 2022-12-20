@@ -70,7 +70,7 @@ $$
 
 
 
-## Keynesianische 
+## Keynesianisches Modell
 
 **Keynes an sich ist so ein Banger, aber sein Modell nervt**
 
@@ -119,4 +119,24 @@ komparative Statik: Anstieg der Staatsausgaben
 analytische Modellierung von Keynes General Theory
 
 **KLAUSURRELEVANT!!!**
+
+
+
+## Übung
+
+Aufgabe Ausgabenmultiplikator
+
+- Konsumfunktion: $C = \bar{C}+cY = \bar{C}+(1-s)Y$
+- Agg. Nachfrage: $\bar{G} + \bar{I}+\bar{TB} + C= \bar{DD} +cY$
+
+Angebot = Nachfrage
+
+- Gütermarkt GG: $Y = \bar{DD}+cY$
+- nach Y: $(1-c)Y = \bar{DD} \to Y_0 \frac{1}{(1-c)}\bar{DD} $
+- Ausgabenmultipliaktor: $\Delta Y = \frac{1}{(1-c)}\Delta \bar{DD} = \frac{1}{s}\Delta \bar{DD}$
+    - bei Sparquote von 0,2:
+    - Anstieg Staatsausgaben um 1 Einheit
+    - = Anstieg Y um 5
+
+
 
