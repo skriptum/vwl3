@@ -69,6 +69,8 @@ $\hat{A}$ =**measure of our ignorance**
 
 ### Beta-Konvergenz
 
+= unbedingte Konvergenz
+
 => negativer Zusammenhang von BIP p.P und Wachstumsrate
 
 empirisch anhand Regression bestimmt
