@@ -69,5 +69,6 @@
     - [Zinsstruktur](VL_Monetaer/2022-11-22-Zinsstruktur.md)
     - [Finanzmarkt](VL_Monetaer/2022-11-29-Finanzmarkt.md)
     - [Zentralbank2](VL_Monetaer/2022-12-11-Zentralbank2.md)
+    - [Finanzkrisen](VL_Monetaer/2022-12-20-Finanzkrisen.md)
     - [Übersicht](VL_Monetaer/README.md)
 
