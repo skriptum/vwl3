@@ -9,6 +9,7 @@
     - [Arbeit](VL_Makro1/2022-11-24-Arbeit.md)
     - [Geld](VL_Makro1/2022-11-30-Geld.md)
     - [Wirtschaftspolitik](VL_Makro1/2022-12-06-Wirtschaftspolitik.md)
+    - [Kurzfristig](VL_Makro1/2022-12-15-Kurzfristig.md)
     - [Übersicht](VL_Makro1/README.md)
 
 - Mikroökonomik II
@@ -20,6 +21,7 @@
     - [Risiko](VL_Mikro2/2022-11-30-Risiko.md)
     - [Versicherung](VL_Mikro2/2022-12-02-Versicherung.md)
     - [Verhalten_II](VL_Mikro2/2022-12-10-Verhalten_II.md)
+    - [Intertemporal](VL_Mikro2/2022-12-15-Intertemporal.md)
     - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
@@ -39,7 +41,8 @@
     - [Verteilung](VL_Wachstum/2022-11-22-Verteilung.md)
     - [Ungleichheit](VL_Wachstum/2022-11-29-Ungleichheit.md)
     - [Mobilitaet](VL_Wachstum/2022-12-06-Mobilitaet.md)
-    - [Zusammenhang](VL_Wachstum/2022-12-13-Zusammenhang.md)
+    - [Wechselwirkung](VL_Wachstum/2022-12-13-Wechselwirkung.md)
+    - [Kuznet](VL_Wachstum/2022-12-20-Kuznet.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -52,6 +55,8 @@
     - [Spieltheorie](VL_Ethik/2022-11-15-Spieltheorie.md)
     - [Wirtschaftspolitik](VL_Ethik/2022-11-22-Wirtschaftspolitik.md)
     - [Umweltpolitik](VL_Ethik/2022-12-06-Umweltpolitik.md)
+    - [Marxismus](VL_Ethik/2022-12-13-Marxismus.md)
+    - [Energie](VL_Ethik/2022-12-20-Energie.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
