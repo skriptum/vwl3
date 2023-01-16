@@ -114,11 +114,66 @@ komparative Statik: Anstieg der Staatsausgaben
 
 
 
-## IS-MP Modell
+## IS-LM Modell
 
 analytische Modellierung von Keynes General Theory
 
-**KLAUSURRELEVANT!!!**
+- Anpassung von Modell an Inflationäre Wirkung
+- Betrachtung von Geldmarkt und Gütermarkt
+- bestimmt #klausurrelevant
+
+### IS-Kurve = Geldmarkt
+
+mögliche Kombinationen von Zinssätzen und realen Marktoutput
+
+- Annahme: *I=S*, Investittionen = Ersparnisse
+    - höhere Zinssätze = weniger Investitionen = weniger Nachfrage
+- Ableitung der Nachfrage nach Zinssatz
+    - IS-Kuve = abhängig von Zinsreagibilität der Nachfrage
+
+![img](../images/2022-12-22_13-49-23.jpg)
+
+
+
+- Niedriger Zins = bessere Wirtschaft
+- ohne Inflation: $\pi = 0 \to$ i=R
+
+
+
+Alternativ: exogene Erhöhung der Nachfrage
+
+= keine Zinswirkung! ![img](../images/2022-12-22_13-54-53.jpg)
+
+### MP = Monetary Policy
+
+die Zentralbank setzt den Marktzins = Monetäre Politik
+
+![img](../images/2022-12-22_14-14-30.jpg)
+
+nach `John Taylor (1993)`
+
+### IS-MP
+
+Treffpunkt beider Kurven
+
+![img](../images/2022-12-22_14-16-44.jpg)
+
+Instrumente des Staates:
+
+- Fiskalpolitik (restriktiv / expansiv)
+- Geldpolitik (retstrikitv / expansiv)
+
+| expansive Fiskalpolitik                   | restritkive Geldpolitik                   |
+| ----------------------------------------- | ----------------------------------------- |
+| ![img](../images/2022-12-22_14-18-22.jpg) | ![img](../images/2022-12-22_14-18-29.jpg) |
+
+durch Zusammenspiel beider Politik lässt sich jeder Punkt in Graph erreichen!
+
+
+
+## Geldmarkt & Zinspolitik
+
+
 
 
 

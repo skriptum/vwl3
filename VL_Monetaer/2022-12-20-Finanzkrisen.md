@@ -83,3 +83,63 @@ Problem: Downturn in den 2007ern
     - Bremsen von konservativen ZB (Bundesbank)
     - dadurch keine richtige Überwindung der Krise
 
+
+
+## Übung
+
+### 1: Zinssätze
+
+- *i* = **overnight interbank interest rate** = Zinsatz zwischen Geschäftsbanken
+    - Fed: Federal Funds Rate
+    - EZB: ESTER (European Short Term Rate)
+- $i_d$ = **deposit interest rate** = Zinsatz auf Zentralbankeinlagen
+- $i_l$ = **lending interest rate** = Spitzenrefinanzierungssatz aus Fazilitäten
+
+i = Basis für Zinsen der gesamten Volkswirtschaft
+
+
+
+### 2: Reserven
+
+Markt für Zentralbankreserven abhängig von *i*
+
+![img](../images/2022-12-22_11-09-09.jpg)
+
+**Angebot:** 
+
+`Frage: will ich von ZB leihen oder auf Interbankenmarkt?`
+
+- *vertikal*: **Non Borrowed Reserves** NBR: Offenmarktgeschäfte der ZB
+  - wenn $i < i_L$: Niemand leiht bei ZB, BR=0, NBR > 0
+- *horizontal*:  **Borrowed Reserves**
+    - wenn $i \ge i_l$: Geschäftsbanken leihen bei Zentralbank, BR > 0, mehr ZB-Reserven im Markt
+
+
+
+
+**Nachfrage**
+
+`Frage: will ich auf Interbankenmarkt verleihen oder an ZB?` 
+
+- sinkende Nachfrage abhängig von Zins = logisch
+- sobald Depositzins den GB kriegt höher als i = unendliche Nachfrage
+
+wenn $i-i_d$ steigt: Interbankenmarkt attraktiv, ABzug von ZB
+
+wenn $i-i_d$ sinkt: ZB-Geld attraktiver
+
+
+
+**=> ZB will $i_d < i^* < i_l$**, sodass Interbankenmarkt funktioniert
+
+### 3: Marktreaktionen
+
+- **Offenmarktkauf**: mehr Geld -> Angebot nach Rechts, mehr Non-Borrowed Reserves -> niedrigerer Zins *i*
+
+
+
+> **Wichtige Zitate:**
+>
+> "Deine Zentralbank Reserven sind ganz schön attraktiv"
+>
+> "Zeig mir deine Angebotskurven"
