@@ -10,7 +10,9 @@
     - [Geld](VL_Makro1/2022-11-30-Geld.md)
     - [Wirtschaftspolitik](VL_Makro1/2022-12-06-Wirtschaftspolitik.md)
     - [Kurzfristig](VL_Makro1/2022-12-15-Kurzfristig.md)
+    - [Globalisierung](VL_Makro1/2022-12-22-Globalisierung.md)
     - [Übersicht](VL_Makro1/README.md)
+    - [](VL_Makro1/Test.md)
 
 - Mikroökonomik II
     - [Konsumenten1](VL_Mikro2/2022-10-25-Konsumenten1.md)
@@ -22,6 +24,7 @@
     - [Versicherung](VL_Mikro2/2022-12-02-Versicherung.md)
     - [Verhalten_II](VL_Mikro2/2022-12-10-Verhalten_II.md)
     - [Intertemporal](VL_Mikro2/2022-12-15-Intertemporal.md)
+    - [Verhalten_III](VL_Mikro2/2022-12-22-Verhalten_III.md)
     - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
@@ -32,6 +35,7 @@
     - [Übersicht](VL_Soziologie/README.md)
 
 - Wachstum und Nachhaltigkeit
+    - [Formelsammlung](VL_Wachstum/2022-10-10-Formelsammlung.md)
     - [BIP](VL_Wachstum/2022-10-11-BIP.md)
     - [Solow](VL_Wachstum/2022-10-18-Solow.md)
     - [Humankapital](VL_Wachstum/2022-10-25-Humankapital.md)
@@ -43,6 +47,8 @@
     - [Mobilitaet](VL_Wachstum/2022-12-06-Mobilitaet.md)
     - [Wechselwirkung](VL_Wachstum/2022-12-13-Wechselwirkung.md)
     - [Kuznet](VL_Wachstum/2022-12-20-Kuznet.md)
+    - [IPAT](VL_Wachstum/2023-01-10-IPAT.md)
+    - [Klima-Solow](VL_Wachstum/2023-01-17-Klima-Solow.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -57,6 +63,9 @@
     - [Umweltpolitik](VL_Ethik/2022-12-06-Umweltpolitik.md)
     - [Marxismus](VL_Ethik/2022-12-13-Marxismus.md)
     - [Energie](VL_Ethik/2022-12-20-Energie.md)
+    - [Unternehmensbindung](VL_Ethik/2022-12-22-Unternehmensbindung.md)
+    - [Unternehmen](VL_Ethik/2023-01-10-Unternehmen.md)
+    - [Korruption](VL_Ethik/2023-01-17-Korruption.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
@@ -70,5 +79,7 @@
     - [Finanzmarkt](VL_Monetaer/2022-11-29-Finanzmarkt.md)
     - [Zentralbank2](VL_Monetaer/2022-12-11-Zentralbank2.md)
     - [Finanzkrisen](VL_Monetaer/2022-12-20-Finanzkrisen.md)
+    - [Zinssatz](VL_Monetaer/2023-01-10-Zinssatz.md)
+    - [Instrumente](VL_Monetaer/2023-01-17-Instrumente.md)
     - [Übersicht](VL_Monetaer/README.md)
 
