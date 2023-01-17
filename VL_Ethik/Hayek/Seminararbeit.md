@@ -11,7 +11,10 @@ Einleitung:
 
 1. Hayek
 
-- Entstehungshintergrund Road to Serfdom (RtS)
+- Entstehungshintergrund Road to Serfdom (RtS) und seines Denkens
+    - hat Kollektivismus aus dem öffentlichen Diskurs verbannt
+    - Fikus nicht ur auf Buch, sondern auf Ideen
+
 - Argumentationsweise Hayeks Denken, mglw. auch vin RtS
     - verbalökonomisch, Erklärung für Bevölkerung
 - Zusammenhang Economic Freedom, Political Freedom
@@ -21,17 +24,25 @@ Einleitung:
 2. Russland und der Aufbruch
 
 - Russland nach 1990, Aufbruchstimmung
+    - Übereinstimmung mit Nachkriegskontext
+    - aus organisierter Kriegswirtschaft / Kommunismus -> Marktwirtschaft
+
 - Erweiterung der Freiheiten
 - Privatunternehmen (Hayek nice)
-- Verteilung der staatlichen Güter
+- Verteilung der staatlichen Güter / Privatisierung schief gelaufen
 
 
 
 3. Probleme
 
-- immer viele staatliche Unternehmen
+- extremes Rent-Seeking von politischer Elite, die großen Unternehmen aufzuteilen
+    - aufgrund von Abneigung ggü. Ausland viel an Russen
+    - diese hatten wenig Kapital
+    - also an politische Mächte
+- immer viele staatliche Unternehmen (mixed economy)
 - wenig Innovation / wettbewerb (Hayek anführen)
 - wenig Wachstum = Unzufriedenheit
+- Begriff: :*katastroika* [Quelle](https://www.waywordradio.org/katastroika/)
 - 1998 Wirtschaftskrise: Yeltsin ernennt Putin
 
 
@@ -41,11 +52,13 @@ Einleitung:
 - Rufe nach starkem "Führer" (wie **Hayek**)
     - Auftritt Putin Wahl 2000 ("the stronger the state, the freer the people") [hier](https://global.oup.com/ushe/product/a-history-of-russia-9780190645588?cc=ru&lang=en&) laut [wiki](https://www.wikiwand.com/en/2000_Russian_presidential_election#Campaign)
     - Tschetschenische Bombenangriffe = starke Hand 
+- Soziale Wohltaten versprechen **economic intervention**
+    - social contract: economic stability <--> restricted freedom [source](https://eurasianet.org/perspectives-russias-social-contract-is-fraying-what-are-the-implications)
+
 - eigene Art des Wirtschaftens (ineffizent)
     - Staatsausgaben aus Ölverkäufen
     - Ansammlung von Macht
     - Oligarchen (**Rent Seeking**), insbesondere staatliche Rohstoffkonzerne
-- Soziale Wohltaten versprechen **economic intervention**
 
 
 
@@ -54,17 +67,30 @@ Einleitung:
 - Schuld auf andere schieben
     - Unterdrückung Opposition
     - Scapegoat
-- **Totalitarismus**
+- **Totalitarismus** / Staatlcihe Ideologie [Artikel](https://www.themoscowtimes.com/2014/02/19/the-return-of-state-ideology-a32261)
 - Anfang Tschetschenien
 - dann Georgien, Ukraine 2014 und jetzt Ukraine 2022
 - Einschränkung Wirtschaftsfreiheit, extreme Währungskontrolle, Kriegswirtschaft
+- immense Konzentration der Wirtschaft, Rent Seeking, no economic freedom
+    - Bild: https://carnegiemoscow.org/commentary/61272![](https://images.carnegieendowment.org/images/article_images/Movchan_Graphs_English-03.jpg)
+    - 
+
+
+
+
+> Vladimir Pastukhov, a Russian political scientist, advocate and honorary senior research associate of the University College London's School of Slavonic and East European Studies, and Alexander Podrabinek, a Soviet dissident, journalist and Russian human rights defender, state that Russia has been taking on the characteristics of a **totalitarianism** as a result of the constitutional amendments. This is reflected in incremental but steady and aggressive process of the seizing of full control over public and private life, and de facto criminalization of any opposition and dissidence
+>
+> Im Kontext der Verfassungsänderungen 2020
+>
+> [Wiki Quote hier](https://www.wikiwand.com/en/Putinism#Putin's_amendments_to_the_Russian_Constitution_of_2020)
 
 
 
 Hayek Argumentation:
 
 - Mixed Economy unstable => Totalitarianims
-- 
+
+
 
 
 
@@ -79,6 +105,9 @@ Hayek Argumentation:
 - What does Putin promise Russians? [Russia’s
     Authoritarian Social Policy](https://sci-hub.st/https://doi.org/10.1016/j.orbis.2020.05.003)
 - Seine Art zu wirtschaften: [Putinomics](https://link.springer.com/book/10.1007/978-3-030-74077-1)
+- [Rückkehr der staatlichen Ideologie](https://www.themoscowtimes.com/2014/02/19/the-return-of-state-ideology-a32261)
+
+
 
 ## Zitate
 
