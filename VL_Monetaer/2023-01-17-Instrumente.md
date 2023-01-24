@@ -18,13 +18,17 @@ Zinserhöhung:
 
 über welche Maßnahmen wirkt die Politik?
 
-### Zinskanal
+### Zinsen
 
-aus Fischer Gleichung: *Effektivzins = Nominalzins - Inflationserwartung*
+aus Fischer Gleichung: 
+$$
+Effektivzins = Nominalzins - Inflationserwartung
+$$
+
 
 Einfluss auf beides:
 
-- Zinspolitik senkt **Nominalzins**
+- Zinspolitik senkt **Nominalzins** (*Zinskanal*)
     - herkömmliche Politik
 - und verändert **Erwartungen** (*Erwartungskanal*)
     - bspw. mit unkonventioneller Geldpolitik
@@ -79,6 +83,54 @@ Bankzinsen im Euroraum (heir Kanal besonders wichtig!)
 
 - Erhöhung der Firmenwerte = bessere Sicherheiten für Kredite
 - solventere Firmen = geringeres Ausfallrisiko = weniger adverse Selektion
+
+
+
+## Übung
+
+### Zinskanal
+
+- Annahme verzögerte Preisanpassung
+- mit Fischer Gleichung Nominalzins und Erwartung veränderbar
+
+bei Nullzinsgrenze:
+
+- Zins kann nur ncoh mithilfe von Erwartungen gesteuert werden
+- Erwartungskanal hochrelevant
+- außerdem Einlagenzins wird relevanter 
+    - bsp.: EZB Einlagenzins negativ (-0,5%)
+
+### Wechselkurskanal
+
+Zinsparitätsgleichung
+$$
+Zins_{Euro} = Zins_{Dollar} + \text{erwartete Abwertung Euro/ Dollar}
+$$
+Annahmen
+
+- perfekte Substituierbarkeit
+- Vollkommene Kapitalmobilität
+- Gleichgewicht Kapital / Devisen
+
+Interpretation:
+
+- Erträge Inland = Erträge Ausland
+- aber: Ertrag Ausland hängt ab von Zinsen + Wechelskursrisiko
+    - potentielle Verluste durch Wechselkursänderung
+- Wechselkurse Zukunft nicht bekannt => Erwartungsbildung
+
+
+
+Funktion: Zins Inland (Europa) runter
+
+- Inverstitionen Inland weniger attraktiv
+- Abfluss ins Ausland 
+- nachfrage nach Dollar steigt, Euro sinkt
+- Dollar AUfwertung, Euro Abwertung 
+    - Abwertung Inlandswährung
+    - inlandsgüter relativ billiger (Inland und Ausland)
+    - mehr Nachfrage nach EU-Gütern -> Exporte
+    - mehr BIP
 
 
 
