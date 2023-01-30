@@ -82,7 +82,7 @@ Aufgabe 2: zutreffende Implikationen
 
 - wenn $x \succ y \; \& \; y \succ z \implies x \succ z$
 - wenn $x \succsim y \; \& \; y \succ z \implies x \succ z$
-- wenn $x \succsim y \; \& \; y \succ z \implies x \succ z$
+- wenn $x \succsim y \; \& \; y \succ z \implies x \succsim z$
 - wenn $x \succ y \; \& \; y \sim z \implies x \succ z$
 - wenn $x \sim y \; \& \; y \sim z \implies x \sim z$
 - wenn $x \succsim y \; \& \; y \succsim x \implies x \sim y$

@@ -138,3 +138,23 @@ die Drohung, dass Spieler 2 R spielt, ist unglaubwürdig!
 - aber nie Vorhersage, welches sich wirklihc einstellt
 - basierend auf rationalen Annahmen
 
+
+
+## Übung
+
+Aufgabe 4: Teilspielperfekte GG
+
+![img](../images/2023-01-25_15-26-43.jpg)
+
+| 1 / 2 | LL       | LR       | RL        | RR         |
+| :---- | -------- | -------- | --------- | ---------- |
+| **U** | **3**,1  | **3**, 1 | 1, **3**  | (**1, 3**) |
+| **D** | 2, **1** | 0, 0     | (**2,1**) | 0, 0       |
+
+Gleichegwichte herausfinden:
+
+- wenn Sp1 U spielt, öchste Zahlen an zweiter Stelle markieren (durch die Zeilen gehen)
+- dann wenn Spieler 2 RR wählt, höchste in jeder Spalte an erster Stelle markieren
+- dann GG finden
+
+aus diesen beiden GG würde Spieler 1 das (2, 1) wählen, also D als erste Option

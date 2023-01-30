@@ -7,6 +7,7 @@
 
 - 60 Minuten
 - VL und Übungsstoff
+- Taschenrechner einfach
 
 ## Inhalte
 
