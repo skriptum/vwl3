@@ -143,3 +143,7 @@ Umweltpolitik:
 - **Klima-Solow-Modell**: Integration Temp, Emissionen, Einkommen
 - CO2 Emissionen **ungleich verteilt**
 
+
+
+
+
