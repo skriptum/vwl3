@@ -9,7 +9,10 @@
 
 ## Klausur
 
-- 100% Multiple Choice
+- 100% Single Choice
     - eine Antwort richtig
+    - keine Punktabzüge etc.
+    - nicht alle selbe Fragen
+    - **15 Fragen** (60 Minuten)
 - Folien + Übungen klausurrelevant
 
