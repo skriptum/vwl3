@@ -20,3 +20,21 @@
 Themen:
 
 - Konvergenz Arten und Empirie!
+
+
+
+was vermutlich rankommt:
+
+- IPAT
+- Kuznets Kurve
+- Solow mit ERweiterung (Humankapital)
+- Wachstumsarten
+- JaNeinFragen mit Arschlochverteilung (5 Mal hintereinander richtig)
+- Mobilität / intergenerational elasticity irgendwie
+
+
+
+
+
+
+

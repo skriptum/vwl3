@@ -79,7 +79,7 @@ empirisch anhand Regression bestimmt
 
 **=> funktioniert nicht**, da nicht alle Länder gleichen Steady State haben
 
-#### Alternative
+#### bedingte Beta-Konvergenz
 
 Länder mit ähnlichem Steady State ansehen 
 
