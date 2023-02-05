@@ -11,6 +11,9 @@
     - [Wirtschaftspolitik](VL_Makro1/2022-12-06-Wirtschaftspolitik.md)
     - [Kurzfristig](VL_Makro1/2022-12-15-Kurzfristig.md)
     - [Globalisierung](VL_Makro1/2022-12-22-Globalisierung.md)
+    - [Produktion-Beschaeftigung](VL_Makro1/2023-01-19-Produktion-Beschaeftigung.md)
+    - [Wirtschaftspolitik](VL_Makro1/2023-01-26-Wirtschaftspolitik.md)
+    - [Fiskalpolitik](VL_Makro1/2023-02-02-Fiskalpolitik.md)
     - [Übersicht](VL_Makro1/README.md)
     - [](VL_Makro1/Test.md)
 
@@ -25,6 +28,9 @@
     - [Verhalten_II](VL_Mikro2/2022-12-10-Verhalten_II.md)
     - [Intertemporal](VL_Mikro2/2022-12-15-Intertemporal.md)
     - [Verhalten_III](VL_Mikro2/2022-12-22-Verhalten_III.md)
+    - [Spieltheorie](VL_Mikro2/2023-01-12-Spieltheorie.md)
+    - [Erweiterung](VL_Mikro2/2023-01-19-Erweiterung.md)
+    - [Strategie](VL_Mikro2/2023-01-26-Strategie.md)
     - [Übersicht](VL_Mikro2/README.md)
 
 - Wirtschaftssoziologie
@@ -49,6 +55,7 @@
     - [Kuznet](VL_Wachstum/2022-12-20-Kuznet.md)
     - [IPAT](VL_Wachstum/2023-01-10-IPAT.md)
     - [Klima-Solow](VL_Wachstum/2023-01-17-Klima-Solow.md)
+    - [Umweltpolitik](VL_Wachstum/2023-01-24-Umweltpolitik.md)
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
@@ -66,6 +73,8 @@
     - [Unternehmensbindung](VL_Ethik/2022-12-22-Unternehmensbindung.md)
     - [Unternehmen](VL_Ethik/2023-01-10-Unternehmen.md)
     - [Korruption](VL_Ethik/2023-01-17-Korruption.md)
+    - [Zivilgesellschaft](VL_Ethik/2023-01-24-Zivilgesellschaft.md)
+    - [Ordonomik](VL_Ethik/2023-02-01-Ordonomik.md)
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
@@ -81,5 +90,7 @@
     - [Finanzkrisen](VL_Monetaer/2022-12-20-Finanzkrisen.md)
     - [Zinssatz](VL_Monetaer/2023-01-10-Zinssatz.md)
     - [Instrumente](VL_Monetaer/2023-01-17-Instrumente.md)
+    - [Geld](VL_Monetaer/2023-01-24-Geld.md)
+    - [Geld2](VL_Monetaer/2023-01-31-Geld2.md)
     - [Übersicht](VL_Monetaer/README.md)
 

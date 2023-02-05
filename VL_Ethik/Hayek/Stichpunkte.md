@@ -218,11 +218,16 @@ Russland
 
     - "spezialoperation" = ideologisches Duktum 
     - Anlehnung an : großer vaterländischer Krieg
-    - gegen dekadenten Westen
-    - Kriegswritschaft, Planen der Firmen
-        - sollen auf Kriegsmaterialien fokussieren
-        - direkter Einfluss auf Arbeitszeiten der Arbeiter
-        - Verpflichtung Leiferung an Staat
+    
+    
+
+Ausblick 
+
+- gegen dekadenten Westen
+- Kriegswritschaft, Planen der Firmen
+    - sollen auf Kriegsmaterialien fokussieren
+    - direkter Einfluss auf Arbeitszeiten der Arbeiter
+    - Verpflichtung Leiferung an Staat
 
 
 
