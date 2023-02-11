@@ -8,6 +8,9 @@ Kategorische Unterteilungen
     - Fremdkapitalgeber für eine Firma werden vs.
     - Eigentümer einer AG werden
 - Primärmarkt - Sekundärmarkt
+    - Neuausgabe
+    - Handel mit bestehenden Papieren
+
 - Geldmarkt - Kapitalmarkt
     - kurzfristige Anleiheinstrumente < 1 Jahr vs.
     - langfristige Kapitalgabe

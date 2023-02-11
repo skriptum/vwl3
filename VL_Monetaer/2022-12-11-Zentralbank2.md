@@ -84,7 +84,7 @@ Gründe für Preisziel:
 
 
 
-Übung:
+Übung: Vorteile von Preisstabilität
 
 1. Umverteilung von Bargeld zu inflatiosnindizierten GÜtern verhindert
 2. niedrige Zinsen & geringe Opportk. Bargeld 

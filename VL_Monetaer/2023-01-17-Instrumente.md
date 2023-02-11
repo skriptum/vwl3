@@ -18,7 +18,7 @@ Zinserhöhung:
 
 über welche Maßnahmen wirkt die Politik?
 
-### Zinsen
+### Zinskanal
 
 aus Fischer Gleichung: 
 $$
