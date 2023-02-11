@@ -90,7 +90,7 @@ Friedman Argument: CEO veruntreuen mit CSR Geld von Shareholdern
 ## Text
 
 ```
-Titel: The Social Responsibility is to increase its profits
+Titel: The Social Responsibility of Business is to increase its profits
 Autor: Milton Friedman
 Datum: 1962
 ```

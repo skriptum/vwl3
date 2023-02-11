@@ -1,5 +1,7 @@
 # 17.01.2023 Korruption
 
+> **Korruption:** Missbrauch anvertrauter Entschidungsrechte (staat oder privat) zum Erlangen persönlicher Vorteile
+
 ## Ausmaß
 
 State of Corruption World-Bank

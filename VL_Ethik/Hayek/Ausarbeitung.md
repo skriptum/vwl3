@@ -14,7 +14,7 @@ format:
     pdf-engine: pdflatex
     fontsize: "12pt"
     fontfamily: newtxtext
-    linestretch: "1.5"
+    linestretch: "1.3"
     linkcolor: "blue"
     
 geometry: 
@@ -33,7 +33,7 @@ Der Krieg in der Ukraine hat die westliche Welt unvorbereitet getroffen. Viele B
 
 Ein Denker, der sich insbesondere mit der Entwicklung von Demokratien hin zu totalitären System beschäftigt hat, ist Friedrich August von Hayek. Dieser Essay beschäftigt sich mit seiner Denkweise und wie er das heutige Russland wohl analysieren und charakterisieren würde.
 
-Begonnen wird mit einer Einführung in [Hayeks Denkweise](#hayeks-denkweise), insbesondere seines Hauptwerks "Road to Serfdom". Darauf folgt ein [Blick auf Russland](#blick-auf-heutiges-russland) aus hayekianischer Sicht, wobei insbesondere vier Charakteristika des Systems analysiert werden. Anschließend wird eine kurze [Entwicklungsgeschichte](#der-weg-zur-knechtschaft) Russlands mit Blick auf die analysierten Sachverhalte und die Richtung in Kapitel 3 erläutert. Danach wird im vierten Kapitel eine kurze Kritik an der Totalitarismus-Theorie Hayeks entworfen, bevor im Fazit resümiert wird. 
+Begonnen wird mit einer Einführung in [Hayeks Denkweise](#hayeks-denkweise), insbesondere seines Hauptwerks "Road to Serfdom". Darauf folgt ein [Blick auf Russland](#blick-auf-heutiges-russland) aus hayekianischer Sicht, wobei insbesondere vier Charakteristika des Systems analysiert werden. Anschließend wird eine kurze [Entwicklungsgeschichte](#der-weg-zur-knechtschaft) Russlands mit Blick auf die analysierten Sachverhalte und die Richtung in Kapitel 3 erläutert, bevor im Fazit resümiert wird. 
 
 
 
@@ -129,21 +129,27 @@ Eingebettet ist diese Fixierung auf einen Sündenbock in die generelle Rückkehr
 
 # Der Weg zur Knechtschaft
 
-> A strong state for Russians is not an anomaly, not something that must  be fought for or against, but on the contrary is the source and  guarantor of order, the initiator and driving force of all change.
->
-> ~ Vladimir Putin, 2000 [^18]
-
 Der russische Weg zur Knechtschaft scheint also eine andere Beschaffenheit haben als der prototypische Weg, den Hayek beschreibt. Entstanden ist er aus Reformen, die die russische Bevölkerung nach dem Zusammenbruch der Sowjetunion eigentlich freier machen sollten. 
 
 Doch nach 1990 kam es zu erheblichen Verlusten des Lebensstandards der breiten Bevölkerung (**siehe Abbildung**), unter anderem aufgrund der gescheiterten Reformpolitik und Korruption in der Jelzin-Ära. Die Reaktion darauf waren verstärkte Rufe nach Gerechtigkeit und einer starken Führungsperson in der Politik. Die Antwort darauf war Vladimir Putin, der explizit mit der Idee eines starken Staates in den Wahlkampf ging, nachdem er in Tschetschenien den Aufstand niedergeschlagen hatte und sich dadurch Popularität erarbeitete [^18].  
 
-Nach seiner Wahl als Präsident fing er an, sein eigenes Wirtschaftsprogramm umzusetzen. Das beinhaltet die "nationalen Champions" im Rohstoffsektor, die staatliche Schaffung von Monopolen, aber mit dem Versprechen von sozialem und wirtschaftlichem Aufstieg. Und während des Rohstoffbooms kann er dieses Versprechen auch einhalten. Der Lebensstandard steigt, gleichzeitig aber auch die Beschränkung der politischen Rechte und Freiheiten (**siehe ABB**). Man könnte es als eine Art autoritären Gesellschaftsvertrag interpretieren, wenig politische Partizipation gegen Wohlstand. Das gesamte Wirtschaftswachstum- und Gesellschaftsmodell wird von Beobachtern als einzigartig betrachtet und teilweise mit dem Namen "*Putinomics*"[^19] beschrieben.
+Nach seiner Wahl als Präsident fing er an, sein eigenes Wirtschaftsprogramm umzusetzen. Das beinhaltet die "nationalen Champions" im Rohstoffsektor, die staatliche Schaffung von Monopolen, aber mit dem Versprechen von sozialem und wirtschaftlichem Aufstieg. Und während des Rohstoffbooms kann er dieses Versprechen auch einhalten. Der Lebensstandard steigt, gleichzeitig aber auch die Beschränkung der politischen Rechte und Freiheiten (**siehe ABB**). Man könnte es als eine Art autoritären Gesellschaftsvertrag interpretieren, wenig politische Partizipation gegen Wohlstand. Das gesamte Wirtschaftswachstum- und Gesellschaftsmodell wird von Beobachtern teilweise mit dem Namen "*Putinomics*"[^19] beschrieben, da es eine ganz eigene Spielart des Kapitalismus ist.
 
+Dieser Gesellschaftsvertrag funktioniert jedoch nur während des Rohstoffbooms der 2000er und Anfang der 2010er Jahre. Nach 2012 ist die immense Subventionierung der Wirtschaft durch Rohstoffeinnahmen aufgrund gesunkener Preise nicht mehr möglich, und bei Putins Antritt zur dritten Amtszeit kommt es zu den größten zivilgesellschaftlichen Protesten im modernen Russland. Die Reaktion der Regierung darauf ist eine Niederschlagung der Proteste und eine verstärkte Machtkonzentration und Freiheitseinschränkung, um der Unzufriedenheit entgegenzuwirken. 
 
+Um vom Versagen im eigenen Land abzulenken, wird auch erstmals eine Art von gemeinsamer nationaler Ideologie definiert. Von der Ablehnung von Homosexualität bis zum ersten völkerrechtswidrigen Einmarsch in der Ukraine 2014 und die Schuldzuschreibung an den "dekadenten Westen" wird der Westen erstmals als Feind definiert. In den nächsten Jahren ist auch kein weiterer Wille zum Umbau der Wirtschaft zu erkennen, und die autoritären Repressionen werden immer stärker (**siehe ABB** 2), da keine ökonomischen Erfolge vorzuweisen sind. 
+
+2020 wird dann mit einer weitrechenden Verfassungsreform der erste Grundstein gelegt für eine Langzeitherrschaft Putins, der damit bis 2036 an der Macht bleiben könnte. Neben der Schwächung der Gewaltenteilung und neuen Befugnissen für den Präsidenten umfasst die Reform aber auch weitreichende soziale Versprechen als Gegenleistung für die Bevölkerung. Der Mindestlohn darf verfassungsrechtlich eine Grenze nicht mehr unterschreiten und alle Sozialbezüge werden inflationsindiziert. Nebenbei werden ideologische Elemente inkorporiert, beispielsweise wird das "Lügen" über die sowjetische Geschichte unter Strafe gestellt und die russische Ethnie als staatstragend definiert [^20]. 
+
+Weitergeführt wird der Weg in den Totalitarismus dann 2022 mit dem völkerrechtswidrigen Einmarsch in der Ukraine. Die sogenannte "Spezialoperation", die nicht einmal Krieg genannt werden darf, soll angeblich die Ukraine entnazifizieren und wird oft mit dem "Großen Vaterländischen Krieg", den 2. Weltkrieg, gleichgesetzt. Die Kriegspropaganda, wie das allgegenwärtige russische Z, soll die Bevölkerung für die Kriegsaufgabe mobilisieren und Rekruten für die Armee generieren. Es ist also gewissermaßen ein Umschwung vom autoritären System mit wenig Partizipation zu einem totalitären System, in dem die Bevölkerung für ein gemeinsames Ziel motiviert werden soll. Von ehemaligen Duma-Abgeordneten wird der derzeitige Weg Russlands auch bereits als "Weg in den Totalitarismus" bezeichnet [^21].
+
+Die Zukunft wird vermutlich auch noch weiter in diese Richtung weisen. Mit dem Krieg einher geht auch verstärkt eine Kriegswirtschaft und stärkerer Planung von der Zentralregierung. Neue Gesetzespakete greifen bereits in die wirtschaftliche Freiheit ein, mit dem direkten Einfluss auf Arbeitszeiten von Arbeitern in "wichtigen" Sektoren und Lieferverpflichtungen von Rüstungsmaterialien an die Armee und bringen somit die Planwirtschaft in Teilen wieder zurück [^22]. Auch die Propaganda wird aufrgund der Misserfolge in der Ukraine vermutlich zunehmen, um weitere Rekruten für die Armee zu mobilisieren.
 
 [^18]: @williamsNeedAuthorityFigure2000
 [^19]: @millerPutinomicsPowerMoney2018
-# Kritik der Theorie Hayeks
+[^20]: @russellConstitutionalChangeRussia2020
+[^21]: @bathonAufWegTotalitarismus2022
+[^22]: @trevelyanRussianParliamentPasses2022
 
 
 

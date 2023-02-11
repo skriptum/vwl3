@@ -12,11 +12,29 @@ Bestandteile: System-Ethik, Organisations-Ethik, Prozess-Ethik
 
 ![ 2022-10-18_14-27-08](../images/2022-10-18_14-27-08.jpg)
 
+Fragen:
+
+- wie moraltauglich ist die Gesellschaft?
+- wie gesellschaftstauglich ist die Moral?
+
+Begriffe:
+
+- **Semantik**: Moralvorstellungen
+- **Sozialstruktur**: Institutionelle Rahmenordnung
+
+3 Ebenen Spiel
+
+1. **Basisspiel**: das Alltagsspiel (die eigenen Handlungen)
+2. **Metaspiel**: Sozialstruktur (Spielregeln / Anreize)
+3. **Meta-Metaspiel**: Semantik (orthogonale Positierinerung vs Win-Win)
+
+eigene Handlungen also gesteuert von Moral (Semantik) und Regeln (Sozialstruktur)
+
 ## Text: Markt & Moral
 
 ```
-Autoren: Jeff Clark, Dwight Lee
-Datum: 07.2016
+Autoren: Ingo Pies
+Datum: 07/2016
 Titel: Der Markt und seine moralischen Grundlagen
 ```
 

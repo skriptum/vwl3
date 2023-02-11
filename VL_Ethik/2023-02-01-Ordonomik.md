@@ -21,7 +21,8 @@ Fragen:
 
 Begriffe:
 
-- 
+- **Semantik**: Moralvorstellungen
+- **Sozialstruktur**: Institutionelle Rahmenordnung
 
 3 Ebenen Spiel
 

@@ -21,6 +21,8 @@ Unterscheidung Unternehmen | NGOs:
 
 ## Beispiel: Nahrungsmittelspekulation
 
+**AAAAAAHHHH ICH KANN IHM NICHT MEHR ZUHÖRN ALTER!**
+
 NGOs rufen 2012 Skandal aus aufgrund von Nahrungsmittelspekulation
 
 - offener Brief an Bundespräsident

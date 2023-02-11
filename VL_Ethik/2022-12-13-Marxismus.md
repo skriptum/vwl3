@@ -41,7 +41,7 @@ Ergebnis (der Neoklassik): Verbraucher und Konsumenten profitieren
 
 ## Mindestlohn
 
-> Oh ne, nciht schon Wieder, wer Forschung (echte Makroökonomik) zu den Folgen will (nicht den Pieschen Mikrozeug), siehe hier: [Makroökonomische Folgen des Mindestlohnes](https://www.ecosia.org/search?q=mindestlohn%20aktuelle%20makro%C3%B6konoimsche%20paper&addon=firefox&addonversion=4.1.0&method=topbar)
+> Oh ne, nciht schon Wieder, wer Forschung (echte Makroökonomik) zu den Folgen will (nicht den Pieschen Mikrozeug), siehe hier: [Makroökonomische Folgen des Mindestlohnes](https://www.boeckler.de/de/pressemitteilungen-2675-erhohung-des-mindestlohns-auf-12-euro-38638.htm)
 
 Empirische Erfolge des Mindestlohns:
 
@@ -53,3 +53,36 @@ Empirische Erfolge des Mindestlohns:
 
 
 
+## Text
+
+```
+Title: Das Kommunistische Manifest
+Autoren: Karl Marx, Friedrich Engels
+Datum: 1848
+```
+
+1. Welche zwei Lager stehen sich in der bürgerlichen Gesellschaft feindlich gegenüber?
+
+    - Bourgeoisie = moderne Kapitlaisten mit Produktionsmitteln
+    - Proletariat = industrielle Reservearmee, Arbeiterschaft
+
+2. Was hat die Bourgeoisie historisch bewirkt, in Wirtschaft und Politik?
+
+    - materialistische Sichtweise
+    - Hinwegfegen des feudalen Systems
+    - Produktionsmittel angesammelt
+    - Barbarismus hinweggefegt
+    - Bevölkerung agglomeriert
+
+3. Wie bewerten Marx und Engels diese Wirkungen?
+
+    - historisch: positiv wegen den Errungenschaften gegenüber Feudalen system
+    - aber Bourgeosie wurde selsbt zur beherrschenden Klasse = schlecht
+    - konstante Erneuerung wichtig
+
+4. Wie bestimmen Marx und Engels den Durchschnittspreis des Lohnein-
+
+    kommens?
+
+    - Minimum des Arbeitslohnes zum Erhalt des Menschen (p.34)
+    - kein Ertrag, dieser geht an den Industriellen
