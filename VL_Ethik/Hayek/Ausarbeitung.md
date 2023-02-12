@@ -14,7 +14,7 @@ format:
     pdf-engine: pdflatex
     fontsize: "12pt"
     fontfamily: newtxtext
-    linestretch: "1.3"
+    linestretch: "1.5"
     linkcolor: "blue"
     
 geometry: 
