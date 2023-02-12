@@ -59,6 +59,7 @@
     - [Übersicht](VL_Wachstum/README.md)
 
 - Ethik der Soz. Marktwirtschaft
+    - [Zusammenfassung](VL_Ethik/2022-10-00-Zusammenfassung.md)
     - [Theorie_des_NL](VL_Ethik/2022-10-10-Theorie_des_NL.md)
     - [Argumentation](VL_Ethik/2022-10-11-Argumentation.md)
     - [MarktMoral](VL_Ethik/2022-10-18-MarktMoral.md)
@@ -78,7 +79,7 @@
     - [Übersicht](VL_Ethik/README.md)
 
 - Monetäre Ökonomik
-    - [Formelsammlung](VL_Monetaer/2022-10-00-Formelsammlung.md)
+    - [Zusammenfassung](VL_Monetaer/2022-10-00-Zusammenfassung.md)
     - [Zenralbank1](VL_Monetaer/2022-10-18-Zenralbank1.md)
     - [Inflation](VL_Monetaer/2022-10-25-Inflation.md)
     - [Anleihe](VL_Monetaer/2022-11-01-Anleihe.md)
