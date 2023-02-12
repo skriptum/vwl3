@@ -86,10 +86,14 @@ Staatsanleihe (festverzinslichtes Wertpapier)
 | 1000    | 1000          | 100     | 2          |
 
 $$
+\begin{aligned}
 P =& \frac{C}{(1+i)^1} + \frac{C+F}{(1+i)^2}\\
 1000 =& \frac{100}{(1+i)^1} + \frac{100+1000}{(1+i)^2}  \\
 &\implies i=10\%
+\end{aligned}
 $$
+
+
 
 **=> sinkt der Preis, steigt der Effektivzins!**
 
