@@ -15,7 +15,7 @@ format:
     fontsize: "12pt"
     fontfamily: newtxtext
     linestretch: "1.5"
-    linkcolor: "blue"
+    linkcolor: "darkgray"
     
 geometry: 
   - top=25mm
@@ -48,7 +48,7 @@ Dieser Haltung stellt er sich entschieden entgegen, mit dem Argument, dass staat
 Aufgrund der Verteilung von Wissen auf alle Individueen einer Gesellschaft und dem Aussetzten des Marktmechanismus als effizienteste Methode der Koordination wird ein Plan nur funktionieren, solange es eine gemeinsame Moralvorstellung gibt. Diese gemeinsame Moralvorstellung kann nur von einem "starken Mann" durchgesetzt werden, der dafür eine gemeinsame Ideologie erschaffen muss.
 
 
-[^1]: @hayekRoadSerfdom1944
+[^1]: @hayekRoadSerfdomCondensed1945
 
 # Blick auf heutiges Russland 
 
@@ -91,9 +91,9 @@ So war beispielsweise der Verkauf von Erdgas nach Osteuropa über Mittelsmänner
 
 All diese Prozesse führen dazu, dass die russiche Wirtschaft in ihrer Entwicklung stark beeinträchtigt wurde, da sie nur auf Rent-Seeking bei den politischen Machthabern ausgerichtet war und innovative Unternehmen ohne Verbindungen zur Politik keine Möglichkeit haben, sich zu entfalten.
 
-[^7]: @hayekRoadSerfdom1944, p. 60
+[^7]: @hayekRoadSerfdomCondensed1945, p. 60
 [^8]: @tullockWelfareCostsTariffs1967a
-[^9]: @hayekRoadSerfdomText2014
+[^9]: @hayekRoadSerfdomDefinitive1944
 [^10]: @rothacherPostSovietIndustrialPolicy2021
 [^11]: @schmidWerVerstecktSich2006
 
@@ -108,7 +108,7 @@ Das Problem an diesem "planning designed to protect individuals or groups agains
 
 In Russland herrscht aufgrund der Ungleichheit das politische Versprechen auf Gerechtigkeit, trotz der katastrophalen Lage des Wirtschaftssystems. Insbesondere eine Gruppe liegt dabei im Fokus, die Pensionäre und Rentner. Kurz vor jeder Wahl seit 2000 wurde ihre Rente erhöht und neuerdings an die Inflation gekoppelt, ohne Rücksicht auf Lohnentwicklung in der arbeitenden Bevölkerung [^13]. Das ging während der Zeiten hoher Gaspreise bis 2015 gut, seitdem wird die Finanzierung dieser Wahlgeschenke schwieriger und Erhöhungen wurden teilweise ausgesetzt. 
 
-[^12]: @hayekRoadSerfdom1944, p. 60
+[^12]: @hayekRoadSerfdomCondensed1945, p. 60
 [^13]: @sokheyWhatDoesPutin2020
 
 
@@ -155,8 +155,33 @@ Die Zukunft wird vermutlich auch noch weiter in diese Richtung weisen. Mit dem K
 
 # Fazit {.unnumbered}
 
+Die Analyse der jüngeren russischen Geschichte aus Hayeks Blickwinkel erlaubt einem, die Entwicklungslinien des politischen und wirtschaftlichen Systems zu verstehen. Der heutige Stand von wirtschaftlichen und bürgerlichen Freiheiten lässt sich als direkte Folge der staatlichen Eingriffe in die Marktwirtschaft und das politische System in der Vergangenheit interpretieren und so auch die Zukunft prognostizieren. 
+
+In Anbetracht der Ideen und Argumente von Hayek ist es wahrscheinlich, dass er die gegenwärtige Lage Russlands kritisch sehen würde. Insbesondere der Staatskapitalismus und der schrittweise Weg in den Totalitarismus würde ihm vermutlich auffallen und von ihm kritisiert werden. 
+
+Diese Kritik wäre in der Vergangenheit bitter nötig gewesen. Insbesondere die westliche Bereitschaft, auch nach vielen Verstößen Russlands gegen die internationale Ordnung, wie beispielsweise der Einmarsch in der Ostukraine 2014, nicht stringentere Handlungsoptionen auszuloten, ist fragwürdig. 
+
+Beispielsweise das blinde Vertrauen in Gazprom und russische Gaslieferungen im Allgemeinen wäre durch eine Analyse der Wirtschaftsstruktur im Sinne Hayeks vermutlich weniger stark gewesen. In Anbetracht der Tatsache, dass die Verquickung von politischer und wirtschaftlicher Macht im russischen System schon länger offenbart war, hätten so wirtschaftspolitische Entscheidungen wie der Verkauf des größten deutschen Gasspeichers in Rehden an Gazprom [^23] verhindert werden können.
+
+Insgesamt kann man sagen, dass die Entwicklung Russlands auf dem Weg in den Totalitarismus, der heute zutageliegt, aus hayekianischer Sicht absehbar war und ein früheres Einsetzen für die weitere Demokratisierung und Liberalisierung in den 2000ern dringend nötig gewesen wäre. Die Theorie des Wegs zur Knechtschaft lässt sich am Beispiel der Russischen Förderation gut analysieren und sie zeigt, dass sie noch eine Relevanz hat.
+
+Nichtsdestotrotz gibt es Punkte, an denen Hayeks Analysen nicht zum realen Verlauf der Totalisierung passen. Er sieht zwei Kategorien, anhand derer man ein System analysieren kann. Einerseits, wie die Macht verteilt ist, auf einzelne (Autoritarismus) oder viele (Demokratie). Andererseits, wie viel Macht für staatliche Eingriffe die Machthaber haben, ob wenig (Liberalismus) oder viel (totalitär). 
+
+Er selbst sagt dann, dass er "einen liberalen Diktator einer demokratischen Regierung ohne Liberalismus"[^24] vorzieht, da man in einem solchen System besser gegen Totalitarismus abgesichert ist. Abgesehen davon, dass er das im Kontext der chilenischen Diktatur unter Augusto Pinochet gesagt hat, welche für 27.255 politische Gefangene verantwortlich war, von denen 94% gefoltert wurden[^25], zeigt sich hier eine Demokratieskepsis von Hayek und eine Befürwortung eines autoritären Systems im Sinne des Liberalismus.
+
+Der russische Fall zeigt jedoch, dass der Autoritarismus unter Vladimir Putin erst den Grundstein für das totalitäre System gelegt hat. Die Konzentration der Macht auf eine kleine politische Elite erlaubte Putin, schrittweise seine staatlichen Eingriffe auszubauen und zu sichern. Eine funktionierende Demokratie, die Russland nie hatte, hätte eine Absicherung gegen diesen Totalitarismus sein können. Das steht im Gegensatz zum Denken Hayeks, und ich denke dass er sich hier geirrt hat.
 
 
+
+
+
+
+
+
+
+[^23]: @guessgenGefaehrlicheAbhaengigkeitWarum2022
+[^24]: @hayekInterviewFriedrichHayek1981
+[^25]: @valechNationalCommissionPolitical2005
 
 
 
