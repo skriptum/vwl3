@@ -11,6 +11,8 @@ Friedman: Gewinnorientierung = gesellschaftliche Verantwortung
     - CSR = Veruntreueung von Geld
 
 - aber: sieht CSR als Business Case 
+    - Corporate Citizenship
+
 
 
 

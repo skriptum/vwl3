@@ -1,6 +1,25 @@
 # Zusammenfassung Ethik der Sozialen Marktwirtschaft
 
-[TOC]
+- [Wirtschaftsethik](#wirtschaftsethik)
+  * [Praktischer Syllologismus](#praktischer-syllologismus)
+  * [Ordonomik](#ordonomik)
+- [Ursprung der Sozialen Marktwirtschaft](#ursprung-der-sozialen-marktwirtschaft)
+  * [Markt und Moral](#markt-und-moral)
+  * [Wettbewerb](#wettbewerb)
+- [Soziale Dilemmata](#soziale-dilemmata)
+  * [Darstellung](#darstellung)
+  * [Arten von Spielen](#arten-von-spielen)
+  * [Markt aus spieltheoretischer Sicht](#markt-aus-spieltheoretischer-sicht)
+- [Anwendungsfälle](#anwendungsfälle)
+  * [Soziale Marktwirtschaft ](#soziale-marktwirtschaft)
+  * [Umweltpolitik](#umweltpolitik)
+  * [Marxismus](#marxismus)
+  * [Nachhaltigkeit](#nachhaltigkeit)
+  * [Bindungen](#bindungen)
+  * [Arten von Bindungen](#arten-von-bindungen)
+  * [Korruption](#korruption)
+  * [Zivilgesellschaft](#zivilgesellschaft)
+- [Nicht alles mit barer Münze nehmen](#nicht-alles-mit-barer-münze-nehmen)
 
 ## Wirtschaftsethik
 
@@ -444,5 +463,282 @@ eigentlich werden Unternehmen ausgebeutet im Wettbewerb (**naja!**)
 
 
 
-### Klimapolitik und Nachhaltigkeit
+### Nachhaltigkeit
+
+**Semantik** der modernen Gesellschaft
+
+- Moral aus Nullsummengesellschaft
+- Annahme: Wachstum = Umweltverschmutzung
+- Annahme der "Grenzen des Wachstums"
+
+![2023-02-13_14-36-04](../images/2023-02-13_14-36-04.jpg)
+
+**Sozialstruktur** der Gesellschaft:
+
+- passt nicht zu Tradeoff, sondern Win-Win
+- Wachstum kommt von Innovationen
+- Innovationen machen uns erst umweltverträglich
+
+
+
+Lösung: *Nachhaltigkeit*sbegriff
+
+- semantische Innovation
+- mehrere Sektoren umfassend (Ökonomie + Ökologie)
+- globale Ebene mit Regelkonsens
+- "Wachstum der Grenzen"
+
+Konsensorientiert: gesellschaftlicher Umweltschutz + wirtschaftliche Wertschöpfung
+
+![2023-02-13_14-37-22](../images/2023-02-13_14-37-22.jpg)
+
+=> durch semantische Innovation wird Konflikt zw. Wachstum und Umweltchutz befrieidigt
+
+
+
+### Bindungen
+
+werden in Unternehmensgovernance genutzt, um Dilemma zu überkommen
+
+> **Governance**: Ordnung zur Konfliktlösung, für gegenseitige Besserstellung
+
+Bindungen
+
+- beugt Ausbeutungsangst vor
+- erlaubt Risikoinvestments erst
+- "Freiheit durch Bindung"
+
+
+
+| *Arten von Bindungen*    | Selbstbindung              | Bindungsservice               |
+| ------------------------ | -------------------------- | ----------------------------- |
+| **Zweiseitiges Dilemma** | kollektive Selbstbindung   | Kollektiver Bindungsservice   |
+| **Einseitiges Dilemma**  | individuelle Selbstbindung | individueller Bindungsservice |
+
+
+
+#### Corporate Social Responsibility
+
+unternehmerische Sozialverantwortung zum Beitrag für Gesellschaft
+
+- in Form von Corporate Citizenship
+- bspw. Unterstützung von lokalen Schulen für bessere Arbeitskräfte
+
+=> CSR setzt Moral als Produktionsfaktor ein
+
+Friedman und die CSR:
+
+- einzige Verantwortung von Unternehmen = Gewinnorientierung
+- nimmt Tradeoff Denken an zw. CSR und Gewinn
+
+
+
+### Arten von Bindungen
+
+Unternehmen haben gesellschaftliche Aufgaben
+
+- Nachhaltigkeit
+- Risikovorsorge
+- Innovation
+
+#### Nachhaltigkeitsmanagement
+
+am Beispiel Lammsbräu
+
+**Problem:**
+
+- Lammsbräu will Öko-Hopfen von Bauern
+- diese müsssen in Bio-Landwirtschaft investieren
+    - machen sie nicht, da ausbeutbar
+
+```mermaid
+graph LR
+Bauer ====>|nicht Bio| a(0,0)
+Bauer --Bio--> L[Lammsbräu]
+L ==ausbeuten==> b("-1,2")
+L --nicht ausbeuten--> c(1,1)
+```
+
+**Lösung:**
+
+- individuelle Selbstbindung von Lammsbräu
+    - garantierte Absatzmenge nach Investition
+    - und Hilfe bei Umbau mit von L. bezahltem Manager
+    - bei Bruch, also Investition *x* verloren
+
+```mermaid
+graph LR
+Bauer --->|nicht Bio| a(0,0)
+Bauer ==Bio==> L[Lammsbräu]
+L --ausbeuten--> b("-1, 2-x")
+L ==nicht ausbeuten===> c(1,1)
+```
+
+=> individuelle Selbstbindung erlaubt Pareto-Optimum und dadurch mehr Nachhaltigkeit
+
+#### Risikomanagement 
+
+am Beispiel Krupp
+
+**Problem:**
+
+- Seuchenlage in Fabriken
+- katastrophale Gesundheitslage in Essen
+- wenig Krankenhäuser
+- Arbeiter hatten keinen Anreiz, in Krankenversicherung einzuzahlen
+- gingen bei Krankheit in die Fabrik
+
+Arbeiter: in Krankenkasse einzahlen?
+
+| Arbeiter 1 / arbeiter 2 | ja    | nein    |
+| ----------------------- | ----- | ------- |
+| **ja**                  | `3,3` | 4, 1    |
+| **nein**                | 1, 4  | `[2,2]` |
+
+**Lösung:**
+
+- Service für kollektive Selbstbindung
+- verpflichtende Krankenkasse mit Zuzahlung
+
+erlaubt Krupp bessere Planung = mehr Risiko = bessere Produkte
+
+
+
+### Korruption
+
+= Missbrauch anvertrauter Entscheidungsrechte
+
+- ob privat bei Unternehmen
+- oder staatlich
+
+```mermaid
+graph TD
+1(Erwartung von Korruption)
+1 --> 2(Verzerrung Verhalten Privater)
+1 --> 3(Verzerrung Verhalten öffentlicher)
+2 -- wenig investitionen, instabiles Kapital--> 4(Gesamtgesellschaftlicher Schaden)
+3 --White Elephant, unnötige Regulierung--> 4
+```
+
+vielfältiger Schaden auf BIP, Gesundheit, Wachstum etc.
+
+#### Problemanalyse
+
+hier in einem privaten Unternehmen
+
+- A = Agent in Unternehmen, vergibt Auftrag an Lieferant
+- P = Prinzipal, Eigentümer des Unternehmens
+- K = Lieferant, besticht A aus schwarzer Kasse
+
+Folgen:
+
+- Vertragsbruch gegenüber Eigentümer, ineffiziente Vergabe
+- aber Tat und Täter unsichtbar (victimless Crime)
+- da Informationsbarriere
+
+![2023-02-13_15-51-35](../images/2023-02-13_15-51-35.jpg)
+
+da keine Information über Tat, niemand Anreiz Tat zu gestehen!
+
+- Strafrecht konzentriert sich nur auf A und K
+
+#### Lösung
+
+auf bestechendes Unternehmen einwirken
+
+- hier Informationsbarrierre geringer
+- da K im Auftrag von Eigentümer
+
+![2023-02-13_15-54-04](../images/2023-02-13_15-54-04.jpg)
+
+warum sollte E das machen?
+
+- Korruptionswettbewerb erhöht Kosten für alle = Zweiseitiges Dilemma
+
+
+
+Außerdem: Whistleblower zum Geständnis bewegen
+
+- es gibt meist Mitwisser im Unternehmen
+- haben Angst vor sozialer Ächtung (c)
+-  => anonyme Berichte
+
+Davor:
+
+```mermaid
+graph LR
+K --keine Korruption---> 1(2,2)
+K ==Korruption==> Mitwisser
+Mitwisser ==nicht anzeigen===> 2(3,1)
+Mitwisser --anzeigen--> 3(1,2-c)
+```
+
+danach:
+
+```mermaid
+graph LR
+K ==keine Korruption====> 1(2,2)
+K --Korruption--> Mitwisser
+Mitwisser --nicht anzeigen--> 2(3,1)
+Mitwisser ==anzeigen==> 3(1,2)
+```
+
+Alternativ: differenzierte Sanktionen = Kronzeugenregelung
+
+
+
+### Zivilgesellschaft
+
+NGOS
+
+- auf Inputseite wie Unternehmen
+    - Konkurrenz um Geld, Zeit, Einfluss
+- aber keine Kontrolle auf Outputseite
+    - da kein Wettbewerb
+
+
+
+#### Thema Nahrungsmittelspekulation
+
+NGOs sagen, Nahrungsmittelspekulation treibt Volatilität
+
+- wo sie recht haben: [Weltbank](https://openknowledge.worldbank.org/bitstream/handle/10986/3855/WPS5371.pdf?sequence=1&isAllowed=y)
+- aber naja, lets get started
+
+
+
+Investment Fonds sind eigentlich gut, weil:
+
+- wie Versicherungsanbieter
+- Risikoübernahme
+- Planung und Preisglättung
+
+also Semantik muss geändert werden:
+
+![2023-02-13_18-50-25](../images/2023-02-13_18-50-25.jpg)
+
+echte Ursachen von Nahrungsmittelknappheit in Krisen
+
+- Exportbeschränkungen
+- Biokraftstoffe
+- Ausweitung der Nachfrage durch Subventionen
+
+
+
+Ursachen für Ausweitung Angebot (langfristig)
+
+- Innovation (Maschinen): vor allem seit 1990
+- mehr Dünger
+- mehr Bewässerung
+- mehr Fläche
+
+=> Marktwirtschaft ist toll und so
+
+
+
+# Nicht alles mit barer Münze nehmen
+
+manchmal muss man Pies kritisch gegenüber stehen!
+
+![2023-02-13-19-02-13](../images/2023-02-13-19-02-13.png)
 
