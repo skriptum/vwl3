@@ -159,8 +159,7 @@ inflationsbereinigter Effektivzins (nach Fischer)
 
 $$
 \underbrace{r}_{\text{Real}} = 
-\underbrace{i}_{\text{Nominal}} 
-- \underbrace{\pi^e}_{\text{Inflationserwartung}}
+\underbrace{i}_{\text{Nominal}} - \underbrace{\pi^e}_{\text{Inflationserwartung}}
 $$
 
 - Investoren wollen gleichbleibenden Zins

@@ -28,7 +28,7 @@
 Wirtschaft meint hier die neoklassische!
 
 ```mermaid
-graph LR
+flowchart LR
 Ziele & Mittel --> Handlungen
 Handlungen --> Handlungsfolgen
 Handlungsfolgen --> intendiert & a[nicht intendiert]
@@ -66,7 +66,7 @@ Forschung von Ordnungsystemen und Moral, bestehend aus:
 Betrachtung von
 
 ```mermaid
-graph LR
+flowchart LR
 Sozialstruktur --gesellschaftstauglich?--> Semantik
 Semantik --moraltauglich?--> Sozialstruktur
 ```
@@ -272,10 +272,10 @@ zwischen zwei anonymen Partnern
 
 
 
-| Tausch einhalten? | ja    | nein    |
-| ----------------- | ----- | ------- |
-| **ja**            | `3,3` | 1, 4    |
-| **nein**          | 4, 1  | `[2,2]` |
+| Tausch brechen? | ja    | nein    |
+| --------------- | ----- | ------- |
+| **ja**          | `3,3` | 1, 4    |
+| **nein**        | 4, 1  | `[2,2]` |
 
 **Lösung**:
 
@@ -283,10 +283,10 @@ zwischen zwei anonymen Partnern
 - oder Wettbewerbsauschluss
 
 
-| Tausch einhalten? | ja       | nein     |
-| ----------------- | -------- | -------- |
-| **ja**            | `[3,3]`  | 1, 4*-x* |
-| **nein**          | 4*-x*, 1 | `2,2`    |
+| Tausch brechen? | ja       | nein     |
+| --------------- | -------- | -------- |
+| **ja**          | `[3,3]`  | 1, 4*-x* |
+| **nein**        | 4*-x*, 1 | `2,2`    |
 
 #### II. innerhalb einer Gruppe
 
@@ -319,20 +319,27 @@ Kartelle sind instabil und erreichen ihr Ziel nicht, das ist gesellschaftlich er
 
 Kartellieren?
 
-| Nachfrager / Anbieter | ja       | nein   |
-| --------------------- | -------- | ------ |
-| **ja**                | `[2, 2]` | 4, 1   |
-| **nein**              | 1, 4     | `3, 3` |
+| Anbieter / Nachfrager | ja                  | nein    |
+| --------------------- | ------------------- | ------- |
+| **nein**              | Monopson            | Polypol |
+| **ja**                | Bilaterales Monopol | Monopol |
+
+Payoffs dazu:
+
+| A / N | j       | n      |
+| ----- | ------- | ------ |
+| **n** | 1, 4    | `3, 3` |
+| **j** | `[2,2]` | 4, 1   |
 
 **Lösung**
 
 - Kartelle verbieten
 - mit Strafen belegen
 
-| Nachfrager / Anbieter | ja       | nein    |
-| --------------------- | -------- | ------- |
-| **ja**                | 2-s, 2-s | 4-s, 1  |
-| **nein**              | 1, 4-s   | `[3,3]` |
+| Nachfrager / Anbieter | ja        | nein     |
+| --------------------- | --------- | -------- |
+| **nein**              | 1, 4-s    | `[3, 3]` |
+| **ja**                | `2-s,2-s` | 4 - s, 1 |
 
 => wir verwehren Kartellen das Vertragsrecht!
 
@@ -552,7 +559,7 @@ am Beispiel Lammsbräu
     - machen sie nicht, da ausbeutbar
 
 ```mermaid
-graph LR
+flowchart LR
 Bauer ====>|nicht Bio| a(0,0)
 Bauer --Bio--> L[Lammsbräu]
 L ==ausbeuten==> b("-1,2")
@@ -567,7 +574,7 @@ L --nicht ausbeuten--> c(1,1)
     - bei Bruch, also Investition *x* verloren
 
 ```mermaid
-graph LR
+flowchart LR
 Bauer --->|nicht Bio| a(0,0)
 Bauer ==Bio==> L[Lammsbräu]
 L --ausbeuten--> b("-1, 2-x")
@@ -612,7 +619,7 @@ erlaubt Krupp bessere Planung = mehr Risiko = bessere Produkte
 - oder staatlich
 
 ```mermaid
-graph TD
+flowchart TD
 1(Erwartung von Korruption)
 1 --> 2(Verzerrung Verhalten Privater)
 1 --> 3(Verzerrung Verhalten öffentlicher)
@@ -666,7 +673,7 @@ Außerdem: Whistleblower zum Geständnis bewegen
 Davor:
 
 ```mermaid
-graph LR
+flowchart LR
 K --keine Korruption---> 1(2,2)
 K ==Korruption==> Mitwisser
 Mitwisser ==nicht anzeigen===> 2(3,1)
@@ -676,7 +683,7 @@ Mitwisser --anzeigen--> 3(1,2-c)
 danach:
 
 ```mermaid
-graph LR
+flowchart LR
 K ==keine Korruption====> 1(2,2)
 K --Korruption--> Mitwisser
 Mitwisser --nicht anzeigen--> 2(3,1)

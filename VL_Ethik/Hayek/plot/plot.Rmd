@@ -1,3 +1,5 @@
+# Plot
+
 ```{r}
 library(tidyverse)
 library(patchwork)
@@ -49,7 +51,7 @@ c
 
 ```{r}
 ggsave(
-  filename="plit.png",
+  filename="plot.png",
   plot=c, 
   device="png",
   width = 20, 
