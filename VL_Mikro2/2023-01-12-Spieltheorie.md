@@ -126,7 +126,7 @@ Interpretation:
     - dominante Strategie beider ist gestehen
     - und sie sind beide letztendlich schlechter gestellt
 
-**=> seid [keine 31er](https://www.youtube.com/watch?v=tFZaD9W0kDk), redet nicht mit Cops!** Anna und Arthur haltens Maul, und du?
+**=> seid [keine 31er](https://www.youtube.com/watch?v=tFZaD9W0kDk), redet nicht mit Cops!**
 
 ![2023-01-19_13-30-55](../images/2023-01-19_13-30-55.png)
 

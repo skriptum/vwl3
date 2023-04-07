@@ -18,4 +18,7 @@ meine Notizen zu den Modulen im dritten Semester
 | Wirtschaftssoziologie (abgebrochen!) | Konstanze Senge |[Übersicht](VL_Soziologie/README.md) |  |
 | Wachstum, Verteilung, Nachhaltigkeit (Leipzig) | Melanie Krause-     |[Übersicht](VL_Wachstum/README.md) |  |
 
+außerdem: **Exzellenzseminar Wirtschaftsethik**
 
+- Seminararbeit als [Website](https://htmlpreview.github.io/?https://github.com/skriptum/vwl3/blob/master/VL_Ethik/Hayek/Ausarbeitung.html)
+- Seminararbeit als [PDF](https://raw.githubusercontent.com/skriptum/vwl3/master/VL_Ethik/Hayek/Walk%20-%20Russland%20und%20Hayek.pdf)

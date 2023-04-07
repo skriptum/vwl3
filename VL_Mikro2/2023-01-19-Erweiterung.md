@@ -153,7 +153,7 @@ Aufgabe 4: Teilspielperfekte GG
 
 Gleichegwichte herausfinden:
 
-- wenn Sp1 U spielt, öchste Zahlen an zweiter Stelle markieren (durch die Zeilen gehen)
+- wenn Sp1 U spielt, höchste Zahlen an zweiter Stelle markieren (durch die Zeilen gehen)
 - dann wenn Spieler 2 RR wählt, höchste in jeder Spalte an erster Stelle markieren
 - dann GG finden
 

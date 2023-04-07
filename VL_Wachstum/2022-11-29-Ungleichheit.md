@@ -25,8 +25,6 @@ Faktor: ungefähr 0.11
 
 seit 80er Jahren: Anstieg der Ungleichheit 
 
-![img](../../../../Desktop/screenshots/2022-11-29_09-48-35.jpg)
-
 Gründe:
 
 - **Neoliberale Politik** (bspw. niedrige Steuersätze)

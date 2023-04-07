@@ -120,3 +120,8 @@ $$
 ### Vergleich beider Ansätze
 
 ![2022-10-25_12-03-24](../images/2022-10-25_12-03-24.jpg)
+
+beide sind gleich, wenn alle Arbeit ungelernt
+
+- $\beta$ = 0 (Romer)
+- $u= 0 \to e^{u}=0$

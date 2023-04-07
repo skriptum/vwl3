@@ -31,8 +31,10 @@ Klima-Solow = vereinfachtes Integrated-Assesment-Modell (IAM) nach `Tsigaris & W
 ```mermaid
 graph LR
 W(Wachstum) --mehr--> E(Emissionen) --mehr--> T(Temperaturanstieg)
+S(Schaden)
 Population & Technologie & Einkommen -.-> W
-T --weniger--> W
+T --mehr--> S
+S --weniger--> W
 ```
 
 
